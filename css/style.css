@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  height: 100vh;
+}
+.navbar-style{
+  box-shadow:  0 5px 10px #efefef;
+  /* text-transform: uppercase; */
+
+}
+.head{
+  height: 38px;
+  padding: 0px 10px;
+}
+.icon-bar{
+  background: darkorange;
+}
+li a{
+  color: black;
+  font-size: 20px;
+  padding: 10px;
+}
+.big-text{
+  font-size: 22px;
+  margin: 20px 0;
+  color: black;
+}
+.you-tube{
+  padding-top: 40px;
+  color: red;
+  font-size: 15px;
+}
+a.btn{
+  margin: 30px;
+  width: 150px;
+  padding: 10px;
+  border-radius: 20px;
+}
+a.btn-first{
+  background-color: darkorange;
+  color: white;
+}
+a.btn-second{
+  background: transparent;
+  border: 1px solid darkorange;
+  color: black;
+}
+a.btn:hover{
+  background: darkorange;
+  border: none;
+  color: white;
+  box-shadow: 5px 5px 10px #999;
+  transition: 0.3s;
+}
+.banner-info,.banner-image{
+  margin: 30px 0;
+}
+.header ,footer{
+  text-align: center;
+  font-size: 18px;
+  box-shadow:  0 5px 10px #efefef;
+}
