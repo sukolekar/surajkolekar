@@ -18,11 +18,11 @@ body{
   line-height: 10px;
 }
 .contact-title h2{
-  font-size: 16px;
+  font-size: 18px;
 }
 form{
   margin-top: 50px;
-  transition: all 4s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 .form-control{
   width: 600px;
