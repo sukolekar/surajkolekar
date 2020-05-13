@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  
 }
 .header{
   height: 100vh;
@@ -23,41 +24,22 @@ li a{
   padding: 10px;
 }
 .big-text{
-  font-size: 22px;
+  font-size: 18px;
   margin: 20px 0;
   color: black;
   text-align: start;
+  
 }
-.you-tube{
-  padding-top: 40px;
-  color: red;
-  font-size: 15px;
-  text-align: start;
-}
-a.btn{
-  margin: 30px;
-  width: 150px;
-  padding: 10px;
-  border-radius: 20px;
-}
-a.btn-first{
-  background-color: darkorange;
-  color: white;
-}
-a.btn-second{
-  background: transparent;
-  border: 1px solid darkorange;
-  color: black;
-}
-a.btn:hover{
-  background: darkorange;
-  border: none;
-  color: white;
-  box-shadow: 5px 5px 10px #999;
-  transition: 0.3s;
-}
+
+
 .banner-info,.banner-image{
   margin: 30px 0;
+  
+  
+}
+.row{
+  background-color: #e5dfe4;
+ 
 }
 .header ,footer{
   text-align: center;
